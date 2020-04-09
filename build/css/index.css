@@ -1,0 +1,10 @@
+body{
+    background: url('http://pic.netbian.com/uploads/allimg/161126/210930-14801657708c41.jpg');
+    background-size: cover;
+}
+#root{
+    height:100%
+}
+#root>div{
+    height:100%
+}
